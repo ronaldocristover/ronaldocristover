@@ -69,8 +69,8 @@ Some repositories are simplified versions of **real-world production patterns** 
 ---
 
 ## 📫 Let’s Connect
-- 📧 Email: [drh.dimasrestu@gmail.com](mailto:drh.dimasrestu@gmail.com)
-- 📸 Instagram: [@ronaldocristover](https://instagram.com/ronaldocristover)
+- 📧 Email: [ronaldochristover@gmail.com](mailto:ronaldochristover@gmail.com)
+- 📸 Instagram: [@ronaldo_cristover](https://www.instagram.com/ronaldo_cristover)
 
 If you find any repository or gist useful, feel free to ⭐️ it.
 
